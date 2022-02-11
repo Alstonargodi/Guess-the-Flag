@@ -1,2 +1,6 @@
-# guesstheflag
-I made this flag guessing quiz game to overcome boredom and maybe when there is no internet connection
+#  Guesstheflag
+
+A simple flag quiz game 
+
+### 🎯Point
+In this project I practice moving from one activity to another and then back again
